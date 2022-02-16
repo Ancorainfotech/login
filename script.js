@@ -10,7 +10,7 @@ function my(){
     
 }
 
-        const scriptURL = 'https://script.google.com/macros/s/AKfycbxSo2f8cdPq91q341Mn_vjpKgD4oO1tZbC5P8TWOll_txkDhPlbkF7Wbob3tGQZuJM/exec'
+        const scriptURL = 'https://script.google.com/macros/s/AKfycbzypRB3teWEJkWsKTJglXVVllTzkz5VPQ7DYc_cL1UIrz3Uab3-PzDgMSXG3sSAmJdp/exec'
         const form = document.forms['google-sheet']
 
         
